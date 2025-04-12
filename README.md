@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @vaishnavipaswan
+- 👀 I’m interested in Data Science,Machine Learning,Cloud Computing,UI/UX.
+- 🌱 I’m currently a pre -final year Student.
+- 💞️ I’m looking to collaborate on Data Science, Web Applications and Cloud Computing projects.
+- 📫 How to reach me : vaishnavipaswan03@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like to Sing...
